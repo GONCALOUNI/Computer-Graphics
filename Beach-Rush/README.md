@@ -1,12 +1,14 @@
-# Jogo de speedrun - BeachRush
+# Speedrun Game - BeachRush
 
-Feito em python utilizando o OpenGl, no âmbito da cadeira Computação Gráfica 23/24
+Developed in Python using OpenGL, as part of the Computer Graphics subject 23/24.
 
-## A fazer:
+## Original To-Do List (Completed):
 
-1. Modelar os elementos do jogo
-2. Modelos a cena do mundo
-3. Construir niveis para o jogo
-4. Implementar gravidade no jogo
-5. Tratar dos inputs do jogo
-6. Fazer um Main menu onde se ajusta as definições
+1. Model the game elements
+2. Model the world scene
+3. Build levels for the game
+4. Implement gravity in the game
+5. Handle game inputs
+6. Create a Main Menu to adjust settings
+
+Note: The game and source code is available only in Portuguese.
