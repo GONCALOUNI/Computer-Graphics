@@ -1,6 +1,6 @@
 # Speedrun Game - BeachRush
 
-Developed in Python using OpenGL, as part of the Computer Graphics course 23/24.
+Developed in Python using OpenGL, as part of the Computer Graphics subject 23/24.
 
 ## Original To-Do List (Completed):
 
